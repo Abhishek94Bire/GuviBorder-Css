@@ -1,0 +1,23 @@
+body{
+    margin-bottom: 300px;
+}
+div{
+    background-color: turquoise;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    
+    width: 500px;
+
+}
+
+#rounded-all{
+    border: 10px solid red;
+    border-radius: 30px;
+}
+
+#rounded-two{
+    border: 10px solid red;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
